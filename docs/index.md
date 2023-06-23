@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Sample Github Pages Flow
+title: "Sample Github Pages Flow"
 ---
 flowchart TD
 	Start(("Start"))
